@@ -1,6 +1,10 @@
 wc to test
 
+<<<<<<< Updated upstream
 
 
 stash line
 
+=======
+git stash pop
+>>>>>>> Stashed changes
